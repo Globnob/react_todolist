@@ -1,6 +1,8 @@
 function Header(){
     return (
-        <div>hello</div>
+        <h1 class="header1">
+        Todolist
+      </h1>
     );
 }
 

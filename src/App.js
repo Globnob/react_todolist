@@ -1,13 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Component } from 'react';
 import Header from './Header';
+import Intro from './Intro';
 
 function App() {
   return (
-    <h1 class="header1">
-      Todolist
-    </h1>
+    <div>
+    <Header/>
+    <Intro/>
+    </div>
+ 
   );
 }
 

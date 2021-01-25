@@ -1,0 +1,26 @@
+.intro {
+  display: block;
+  padding: 150px 50px 75px;
+  margin: auto;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 85px;
+}
+
+.intro button {
+  display: block;
+  padding: 25px 25px 25px;
+  margin: auto;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 45px;
+  color: white;
+  background-color: black;
+  border: 0px;
+}
+
+.intro button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
