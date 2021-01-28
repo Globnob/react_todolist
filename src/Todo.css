@@ -1,13 +1,13 @@
-.intro {
+.todo {
   display: block;
-  padding: 150px 50px 75px;
+  padding: 25px 50px 75px;
   margin: auto;
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 85px;
+  font-size: 30px;
 }
 
-.intro button {
+.todo button {
   display: block;
   padding: 25px 25px 25px;
   margin: auto;
